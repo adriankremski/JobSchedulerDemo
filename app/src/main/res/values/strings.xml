@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JobService Demo App</string>
+
+    <string-array name="network_types">
+        <item>@string/network_type_none</item>
+        <item>@string/network_type_any</item>
+        <item>@string/network_type_unmetered</item>
+    </string-array>
+
+    <string name="network_type_none">NONE</string>
+    <string name="network_type_any">ANY</string>
+    <string name="network_type_unmetered">UNMETERED</string>
+</resources>

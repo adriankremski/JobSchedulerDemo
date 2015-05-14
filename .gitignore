@@ -1,0 +1,23 @@
+# defaults
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+/build
+
+# Eclipse
+.project
+.classpath
+.settings
+.checkstyle
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+classes
+gen-external-apklibs
+
+# Other
+*.keystore
