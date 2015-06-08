@@ -23,3 +23,5 @@ Simple app to test new Android JobScheduler API posibillities
  <li>Cancelling all pending jobs</li>
  <li>Displaying list of pending jobs</li>
 </ul>
+
+This app was done as a part of article http://www.schibsted.pl/2015/05/jobscheduler-to-the-rescue/. Pdf version can be downloaded [here](./art.pdf) 
