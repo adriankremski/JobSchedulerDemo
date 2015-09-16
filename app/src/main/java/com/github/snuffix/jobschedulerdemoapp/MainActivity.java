@@ -184,7 +184,7 @@ public class MainActivity extends ActionBarActivity {
         } else if (networkType == JobInfo.NETWORK_TYPE_UNMETERED) {
             return getString(R.string.network_type_unmetered);
         } else {
-            return getString(R.string.network_type_none);
+            return getString(R.string.network_type_any);
         }
     }
 
